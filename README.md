@@ -1,4 +1,4 @@
------------------------> 👋 Olá! Seja bem-vindo ao meu perfil!<-----------------------
+-----------------------> 👋 Olá! Seja bem-vindo ao meu perfil!<--------------------------------------------
 Meu nome é ⚡Breno⚡, e atualmente estou me aventurando no incrível mundo do desenvolvimento Full Stack. 🚀
 
 🌱 O que estou aprendendo?
